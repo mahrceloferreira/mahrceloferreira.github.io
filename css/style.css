@@ -31,8 +31,8 @@
 
 
 /* Contato */
-@import "./bicicletas/contato.css";
-@import "./bicicletas/lojas.css";
+@import "./contato/contato.css";
+@import "./contato/lojas.css";
 
 /* Termos */
 @import "./termos/termos.css"
